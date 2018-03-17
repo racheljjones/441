@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Rachel Jones">
+    <meta name="CSS" content="Page">
+    <title>HELLO WORLD!  ...Java Page....!  Java Assignment</title>
+  </head>
+
+  <body>
+
+  <style>
+  p {
+      font-family: "serif", Serif;
+  }
+  </style>
+
+<!--My second assignment!-->
+     <title>Hellp World!</title>
+
+     <script type="text/javascript" src="script.js"></script>
+     <script type="text/javascript">
+     </script>
+
+<p class="serif">
+</p>
+<p class="serif">
+    <h1>Hello World!</h1>
+    <p> This was a little easier </p>
+</p>
+
+<h2> Eep. Is this the right way?</h2>
+
+
+    <head>
+        <meta charset="utf-8">
+        <title>JS inside HTML</title>
+        <style>body{background-color: blue;}</style>
+    </head>
+
+
+
+        <script>
+            console.log("Hello World!  May all have mercy on my soul!");
+        </script>
+
+        <h3> this is the end of a test </h3>
+
+
+</body>
+
+</html>
